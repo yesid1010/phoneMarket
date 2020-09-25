@@ -1,0 +1,7 @@
+{
+  "name": "phoneMarket",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
