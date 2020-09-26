@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "gamamovil-194fa": {
+      "hosting": {
+        "app": [
+          "gamamovil-194fa"
+        ]
+      }
+    }
+  }
+}
